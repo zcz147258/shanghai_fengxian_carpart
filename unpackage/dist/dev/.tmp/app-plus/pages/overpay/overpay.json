@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "mescroll-body": "/components/mescroll-diy/xinlang/mescroll-body",
+    "modal": "/components/modal/modal"
+  }
+}

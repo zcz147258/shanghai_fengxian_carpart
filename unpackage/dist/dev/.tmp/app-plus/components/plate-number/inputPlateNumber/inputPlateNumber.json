@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "plate-number": "/components/plate-number/inputPlateNumber/plateNumber"
+  }
+}

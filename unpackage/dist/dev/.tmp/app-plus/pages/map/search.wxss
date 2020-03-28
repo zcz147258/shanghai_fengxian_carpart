@@ -1,0 +1,41 @@
+
+page{
+	background-color: #F0F0F0;
+}
+
+
+.tag view.data-v-77ee80d4{
+		margin-top: 20rpx;
+		margin-left: 20rpx;
+}
+.content.data-v-77ee80d4{
+}
+.head1.data-v-77ee80d4{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		padding-top: 80rpx;
+		padding-bottom: 8rpx;
+		background-color: white;
+}
+.head1>view.data-v-77ee80d4{
+		font-size: 60rpx;
+		margin-left: 20rpx;
+}
+.head1 input.data-v-77ee80d4{
+	 margin-left: 20rpx;
+	width: 65%;
+	height: 80rpx;
+	border: 1px solid rgba(0,0,0,0.4);
+	margin-top: 20rpx;
+	padding-left: 20rpx;
+	border-radius: 10rpx;
+	font-size: 35rpx;
+	margin-top: 10rpx;
+}
+.head1 button.data-v-77ee80d4{
+	margin-top: 18rpx;
+	margin-left: 15rpx;
+}
+
+

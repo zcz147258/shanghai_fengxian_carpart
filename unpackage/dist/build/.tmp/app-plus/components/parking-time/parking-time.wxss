@@ -1,0 +1,18 @@
+
+.text-xxxl{
+	font-size: 80rpx;
+	width: 80rpx;
+	height: 80rpx;
+}
+.parking-time>.parking-time-content{
+	width: 180rpx;
+}
+.parking-time>.parking-time-content>view{
+	width: 80rpx;
+	color: #585858;
+	font-size: 38rpx;
+}
+.parking-time>.parking-time-content>view:nth-last-child(1){
+	font-weight: bold;
+}
+

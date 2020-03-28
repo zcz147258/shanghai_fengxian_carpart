@@ -1,0 +1,34 @@
+
+.bindit.data-v-5875c1a2{
+	margin-top: 50rpx;
+}
+.login.data-v-5875c1a2{
+	position: absolute;
+	top: 300rpx;
+	left: 50%;
+	width: 660rpx;
+	background-color: #F0F0F0;
+	-webkit-transform: translateX(-50%);
+	        transform: translateX(-50%);
+	border-radius: 5rpx;
+}
+.login>view.data-v-5875c1a2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.top.data-v-5875c1a2 {
+	background-color: #1CBBB4;
+	height: 400rpx;
+	width: 100%;
+}
+.top view.data-v-5875c1a2:first-child {
+	padding-top: 120rpx;
+}
+.top view.data-v-5875c1a2 {
+	text-align: center;
+	font-size: 50rpx;
+	color: white;
+	/* font-weight: bold; */
+}
+

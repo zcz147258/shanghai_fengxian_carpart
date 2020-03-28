@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"text-decoration.",[1],"data-v-667b2bec { text-decoration: underline; }\n.",[1],"showTips.",[1],"data-v-667b2bec { font-size: ",[0,45],"; padding: ",[0,15],"; width: ",[0,750],"; }\n",],undefined,{path:"./pages/tingche/tingche.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tingche/tingche.wxml') } }));

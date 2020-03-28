@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "keyboard-package": "/components/keyboard-package/keyboard-package"
+  }
+}

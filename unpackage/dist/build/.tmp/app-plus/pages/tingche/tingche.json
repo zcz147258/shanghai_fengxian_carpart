@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "berth-number": "/components/berth-number/berth-number",
+    "input-plate-number": "/components/plate-number/inputPlateNumber/inputPlateNumber",
+    "history-plate-number": "/components/plate-number/historyPlateNumber/historyPlateNumber",
+    "parking-time": "/components/parking-time/parking-time",
+    "parking-time-list": "/components/parking-time/parking-time-list",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/plate-number/inputPlateNumber/uni-popup"],{"20ff":function(t,n,e){"use strict";e.r(n);var o=e("4575"),u=e.n(o);for(var i in o)"default"!==i&&function(t){e.d(n,t,function(){return o[t]})}(i);n["default"]=u.a},"33bb":function(t,n,e){"use strict";e.r(n);var o=e("9f5b"),u=e("20ff");for(var i in u)"default"!==i&&function(t){e.d(n,t,function(){return u[t]})}(i);e("5208");var a,c=e("f0c5"),f=Object(c["a"])(u["default"],o["b"],o["c"],!1,null,"3037f517",null,!1,o["a"],a);n["default"]=f.exports},4575:function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var o={name:"UniPopup",props:{animation:{type:Boolean,default:!0},type:{type:String,default:"center"},custom:{type:Boolean,default:!1},maskClick:{type:Boolean,default:!0},show:{type:Boolean,default:!0}},data:function(){return{ani:"",showPopup:!1}},watch:{show:function(t){t?this.open():this.close()}},created:function(){},methods:{clear:function(){},open:function(){var t=this;this.$emit("change",{show:!0}),this.showPopup=!0,this.$nextTick(function(){setTimeout(function(){t.ani="uni-"+t.type},30)})},close:function(t){var n=this;!this.maskClick&&t||(this.$emit("change",{show:!1}),this.ani="",this.$nextTick(function(){setTimeout(function(){n.showPopup=!1},300)}),this.$emit("cursorIndexChange",-1))}}};n.default=o},5208:function(t,n,e){"use strict";var o=e("dcd2"),u=e.n(o);u.a},"9f5b":function(t,n,e){"use strict";var o,u=function(){var t=this,n=t.$createElement;t._self._c},i=[];e.d(n,"b",function(){return u}),e.d(n,"c",function(){return i}),e.d(n,"a",function(){return o})},dcd2:function(t,n,e){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/plate-number/inputPlateNumber/uni-popup-create-component',
+    {
+        'components/plate-number/inputPlateNumber/uni-popup-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('6e42')['createComponent'](__webpack_require__("33bb"))
+        })
+    },
+    [['components/plate-number/inputPlateNumber/uni-popup-create-component']]
+]);

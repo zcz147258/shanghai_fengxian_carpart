@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.search-car.data-v-a1c1870e {
+  padding: 15rpx 20rpx;
+}
+.search-car > .search-car-input.data-v-a1c1870e {
+  border: 1rpx solid #dbd6e8;
+  background: #f0e9ff;
+  border-radius: 5px;
+  font-size: 38rpx;
+  width: 80rpx;
+  height: 85rpx;
+}
+.search-car > .search-car-input-list8.data-v-a1c1870e {
+  position: relative;
+}
+.search-car > .search-car-input-list8 > .active > image.data-v-a1c1870e {
+  position: absolute;
+  width: 50rpx;
+  top: 0;
+  left: 10rpx;
+}
+.search-car > .search-car-input-list8 > .active > view.data-v-a1c1870e {
+  position: absolute;
+  top: 50rpx;
+  left: 7rpx;
+  font-size: 20rpx;
+  color: #1195db;
+}
+.search-car > image.data-v-a1c1870e {
+  width: 30rpx;
+}
+.cursor.data-v-a1c1870e {
+  float: left;
+  width: 2px;
+  height: 42rpx;
+  vertical-align: middle;
+  -webkit-align-self: center;
+          align-self: center;
+}
+.cursor image.data-v-a1c1870e {
+    width: 2px;
+    display: block;
+    height: 42rpx;
+}
+

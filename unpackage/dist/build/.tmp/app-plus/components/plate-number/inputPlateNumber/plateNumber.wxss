@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/*
+ * @Author: 李磊 
+ * @Date: 2018-11-14 14:59:16 
+ * @Last Modified by: 李磊
+ * @Last Modified time: 2018-11-26 14:47:26
+ */
+/*宽度转换vw*/
+.plate-popup.data-v-43ff4610 {
+  position: fixed;
+  z-index: 999;
+  background-color: #E3E2E7;
+  box-shadow: 0 0 30rpx rgba(0, 0, 0, 0.1);
+  bottom: 8rpx;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+}
+.plate-popup .plate-close.data-v-43ff4610 {
+    width: 100%;
+    background: #FFFFFF;
+    line-height: 60rpx;
+    font-size: 24rpx;
+    text-align: right;
+    padding-right: 20rpx;
+    color: #00A7EA;
+}
+.plate-popup .plate-popup-item.data-v-43ff4610 {
+    margin: 0 auto;
+    overflow: hidden;
+    display: inline-block;
+    display: table;
+}
+.plate-popup .plate-popup-item.data-v-43ff4610:last-child {
+      margin-bottom: 2vw;
+}
+.plate-popup .width8.data-v-43ff4610 {
+    width: 60rpx;
+}
+.plate-popup .width9.data-v-43ff4610 {
+    width: 67rpx;
+}
+.plate-popup .width10.data-v-43ff4610 {
+    width: 78rpx;
+}
+.plate-popup .width11.data-v-43ff4610 {
+    width: 85rpx;
+}
+.plate-popup .plate-popup-item-list.data-v-43ff4610 {
+    float: left;
+    font-size: 44rpx;
+    height: 88rpx;
+    line-height: 88rpx;
+    margin: 0 1vw;
+    margin-top: 2vw;
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #4A4A4A;
+}
+.plate-popup .plate-popup-item-list.del.data-v-43ff4610 {
+      width: 14vw;
+      background: #C2CACC;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+}
+.plate-popup .plate-popup-item-list.del image.data-v-43ff4610 {
+        width: 50%;
+        height: 50%;
+        margin: 0 auto;
+        display: block;
+        vertical-align: middle;
+        -webkit-align-self: center;
+                align-self: center;
+}
+.plate-popup .plate-popup-item-list.special.data-v-43ff4610 {
+      background: #EAECF8;
+}
+

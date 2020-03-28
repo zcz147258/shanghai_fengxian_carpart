@@ -1,0 +1,31 @@
+
+.item {
+	padding-top: 10rpx;
+	background-color: #FFFFFF;
+	border: 1rpx solid #F6F6F6;
+}
+.item>view:nth-child(1) {
+	margin: 15rpx;
+}
+.item>view:nth-child(1)>view:nth-child(1) {
+	font-size: 36rpx;
+	font-weight: bold;
+}
+.item>view:nth-child(1)>view:nth-child(2) {
+	font-size: 36rpx;
+	text-decoration: underline;
+}
+.button-cx{
+	padding: 20rpx 20rpx;
+}
+.style-tips{
+	padding: 15rpx;
+}
+.style-tips>view:nth-child(1),.style-tips>view:nth-child(3){
+	color: #8799A3;
+}
+.style-tips>view:nth-child(2){
+	padding: 0 15rpx;
+	color: #DD514C;
+}
+

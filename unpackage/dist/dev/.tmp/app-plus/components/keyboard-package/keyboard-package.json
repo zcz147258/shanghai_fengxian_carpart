@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/components/keyboard-package/uni-popup"
+  }
+}

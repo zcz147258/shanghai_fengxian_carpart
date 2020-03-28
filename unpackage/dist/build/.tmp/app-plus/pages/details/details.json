@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}

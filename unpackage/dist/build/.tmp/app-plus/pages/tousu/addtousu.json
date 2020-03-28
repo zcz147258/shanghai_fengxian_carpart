@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

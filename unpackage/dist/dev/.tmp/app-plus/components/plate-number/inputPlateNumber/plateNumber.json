@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/components/plate-number/inputPlateNumber/uni-popup"
+  }
+}

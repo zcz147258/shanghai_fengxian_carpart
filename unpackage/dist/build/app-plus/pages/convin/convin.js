@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container{ margin-top: ",[0,20],"; }\n",],undefined,{path:"./pages/convin/convin.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/convin/convin.wxml') } }));

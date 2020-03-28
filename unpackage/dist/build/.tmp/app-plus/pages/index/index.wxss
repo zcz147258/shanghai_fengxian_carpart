@@ -1,0 +1,52 @@
+
+.name {
+	position: absolute;
+	color: white;
+	font-size: 40rpx;
+	left: 140rpx;
+	top: 50rpx;
+}
+.eng_name {
+	position: absolute;
+	color: #F5F1F1;
+	font-size: 21rpx;
+	left: 140rpx;
+	top: 120rpx;
+}
+.iconfont {
+	position: absolute;
+	color: white;
+	font-size: 80rpx;
+	left: 40rpx;
+	top: 40rpx;
+}
+.container {
+	padding: 0 15rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.list {
+	margin-top: 35rpx;
+	position: relative;
+	width: 340rpx;
+	height: 220rpx;
+	border-radius: 10rpx;
+}
+.title {
+	position: absolute;
+	bottom: 10rpx;
+	left: 30rpx;
+	color: #D0D0D1;
+	font-size: 33rpx;
+	font-weight: bold;
+}
+.picture {
+	width: 100%;
+	height: 800rpx;
+}
+

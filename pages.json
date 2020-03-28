@@ -1,0 +1,151 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {}
+		}, {
+			"path": "pages/home/home",
+			"style": {}
+		}, {
+			"path": "pages/map/map",
+			"style": {}
+		}, {
+			"path": "pages/vehicleManagement/vehicleAdd",
+			"style": {}
+		}, {
+			"path": "pages/payList/payList",
+			"style": {
+				"mp-weixin": {
+					"enablePullDownRefresh": true
+				}
+			}
+		}, {
+			"path": "pages/orderList/orderList",
+			"style": {
+				"mp-weixin": {
+					"enablePullDownRefresh": true
+				}
+			}
+		}, {
+			"path": "pages/qianfei/qianfei",
+			"style": {
+				"mp-weixin": {
+					"enablePullDownRefresh": true
+				}
+			}
+		}, {
+			"path": "pages/overpay/overpay",
+			"style": {
+				"mp-weixin": {
+					"enablePullDownRefresh": true
+				}
+			}
+		},
+		{
+			"path": "pages/lotparking/lotparking",
+			"style": {}
+		},
+		{
+			"path": "pages/tousu/tousu",
+			"style": {}
+		},
+		{
+			"path": "pages/tousu/addtousu",
+			"style": {}
+		}, {
+			"path": "pages/login/login",
+			"style": {}
+		},
+		{
+			"path": "pages/tingche/tingche",
+			"style": {}
+		}, {
+			"path": "pages/vehicleManagement/vehicleManagement",
+			"style": {}
+		}, {
+			"path": "pages/details/details",
+			"style": {}
+		}, {
+			"path": "pages/tingche/tingcheCashier",
+			"style": {}
+		}, {
+			"path": "pages/overpay/inputOverpay",
+			"style": {}
+		},
+		{
+			"path": "pages/convin/convin",
+			"style": {}
+		}, {
+			"path": "pages/qianfei/qianfeiCashier",
+			"style": {}
+		}, {
+			"path": "pages/bindtel/bindtel",
+			"style": {}
+		}, {
+			"path": "pages/overpay/overpayCashier",
+			"style": {}
+		}, {
+			"path": "pages/map/search",
+			"style": {}
+		}, {
+			"path": "pages/lotparking/lotparkingCashier",
+			"style": {}
+		}, {
+			"path": "pages/netcomCashier/netcomCashier",
+			"style": {
+				"app-plus": {
+					"navigationBarTitleText": "一网通",
+					"titleNView": {
+						"autoBackButton": false,
+						"buttons": [{
+							"float": "left",
+							"type": "back"
+						}]
+					}
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarBackgroundColor": "#0081ff",
+		"navigationBarTitleText": "奉贤停车",
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "white"
+	},
+	"tabBar": {
+		"color": "#6E6E6E",
+		"selectedColor": "#3796F7",
+		"borderStyle": "black",
+		"backgroundColor": "#F0F0F0",
+		"height": "55px",
+		"fontSize": "13px",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "主页",
+				"iconPath": "/static/tabbar/home.png",
+				"selectedIconPath": "/static/tabbar/home1.png"
+			},
+			{
+				"pagePath": "pages/map/map",
+				"text": "附近",
+				"iconPath": "/static/tabbar/naber.png",
+				"selectedIconPath": "/static/tabbar/naber1.png"
+			},
+			{
+				"pagePath": "pages/home/home",
+				"text": "个人",
+				"iconPath": "/static/tabbar/self.png",
+				"selectedIconPath": "/static/tabbar/self1.png"
+			}
+		]
+	},
+	"usingComponts": true
+	// "condition": { //模式配置，仅开发期间生效
+	// 	"current": 0, //当前激活的模式(list 的索引项)
+	// 	"list": [{
+	// 		"name": "表格", //模式名称
+	// 		"path": "pages/table/table", //启动页面
+	// 		"query": "" //启动参数
+	// 	}]
+	// }
+}

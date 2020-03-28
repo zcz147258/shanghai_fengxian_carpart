@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"text-xxxl { font-size: ",[0,48],"; }\n",],undefined,{path:"./pages/tingche/tingcheCashier.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tingche/tingcheCashier.wxml') } }));

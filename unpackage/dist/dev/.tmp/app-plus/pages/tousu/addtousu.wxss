@@ -1,0 +1,17 @@
+
+.input-feedback.data-v-7b259b89 {
+	background-color: #FFFFFF;
+	padding: 10rpx 20rpx;
+}
+.choiceExcType.data-v-7b259b89 {
+	background-color: #FFFFFF;
+	width: 600rpx;
+	padding: 20rpx 20rpx;
+}
+label.data-v-7b259b89 {
+	padding: 50rpx;
+}
+label>view.data-v-7b259b89:nth-child(1) {
+	padding-right: 50rpx;
+}
+

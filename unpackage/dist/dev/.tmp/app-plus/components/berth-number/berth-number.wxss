@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.berth {
+  padding: 15rpx 20rpx;
+}
+.berth > .berth-input {
+  border: 1rpx solid #dbd6e8;
+  background: #f0e9ff;
+  width: 120rpx;
+  height: 100rpx;
+  font-size: 48rpx;
+}
+.berth > .berth-input:nth-child(1) {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.berth > .berth-input:nth-last-child(1) {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.cursor {
+  float: left;
+  width: 2px;
+  height: 52rpx;
+  vertical-align: middle;
+  -webkit-align-self: center;
+          align-self: center;
+}
+.cursor image {
+    width: 2px;
+    display: block;
+    height: 52rpx;
+}
+

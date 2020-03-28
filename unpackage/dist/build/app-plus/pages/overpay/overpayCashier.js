@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"text-xxxl { font-size: ",[0,48],"; }\n",],undefined,{path:"./pages/overpay/overpayCashier.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/overpay/overpayCashier.wxml') } }));

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"null-img.",[1],"data-v-30a7a178 { padding-top: ",[0,50],"; width: 100%; }\n.",[1],"null-img\x3ewx-image.",[1],"data-v-30a7a178 { width: ",[0,350],"; }\n.",[1],"input-feedback.",[1],"data-v-30a7a178 { font-size: ",[0,36],"; width: 100%; color: #FFFFFF; bottom: 0; left: 0; right: 0; position: fixed; background-color: #007AFF; padding: ",[0,30]," 0; }\n",],undefined,{path:"./pages/tousu/tousu.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tousu/tousu.wxml') } }));

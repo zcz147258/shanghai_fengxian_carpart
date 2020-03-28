@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "一网通",
+  "titleNView": {
+    "autoBackButton": false,
+    "buttons": [
+      {
+        "float": "left",
+        "type": "back"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

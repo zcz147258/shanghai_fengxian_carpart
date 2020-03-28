@@ -1,0 +1,108 @@
+
+page{
+	background-color: #F0F0F0;
+}
+
+
+.uni-tip.data-v-72cd7ac4 {
+		
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		        flex-direction: column;
+		
+		padding: 15px;
+		width: 300px;
+		background-color: #fff;
+		border-radius: 10px;
+}
+.uni-tip-title.data-v-72cd7ac4 {
+		margin-bottom: 10px;
+		text-align: center;
+		font-weight: bold;
+		font-size: 16px;
+		color: #333;
+}
+.uni-tip-content.data-v-72cd7ac4 {
+		/* padding: 15px;
+*/
+		text-align: center;
+		font-size: 14px;
+		color: #666;
+}
+.uni-tip-group-button.data-v-72cd7ac4 {
+		
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		        flex-direction: row;
+		margin-top: 20px;
+}
+.uni-tip-button.data-v-72cd7ac4 {
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		        flex: 1;
+		text-align: center;
+		font-size: 14px;
+		color: #3b4144;
+}
+.addcar.data-v-72cd7ac4{
+	margin-top: 50rpx;
+	width: 50%;
+	margin-bottom: 50rpx;
+}
+.left .iconfont.data-v-72cd7ac4{
+	color: #0273ED;
+	font-size: 40rpx;
+	margin-left: 20rpx;
+}
+.right .iconfont.data-v-72cd7ac4{
+	color: #F50057;
+	font-size: 40rpx;
+	margin-right: 40rpx;
+}
+.list>view>view.data-v-72cd7ac4{
+	line-height: 100rpx;
+}
+.title.data-v-72cd7ac4{
+	font-size: 30rpx;
+}
+.left .title.data-v-72cd7ac4{
+	color: #3B3B3B;
+	font-size: 33rpx;
+	margin-left: 25rpx;
+}
+.right .title.data-v-72cd7ac4{
+	color: #F27D40;
+	font-size: 31rpx;
+	margin-right: 45rpx;
+}
+.list.data-v-72cd7ac4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background: white;
+	height: 100rpx;
+	margin-top: 10rpx;
+	font-size: 40rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.left.data-v-72cd7ac4,.right.data-v-72cd7ac4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	line-height: 100rpx;
+}
+.title1.data-v-72cd7ac4{
+	padding-right: 80rpx;
+}
+

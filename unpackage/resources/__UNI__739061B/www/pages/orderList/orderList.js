@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"title { position: fixed; top: 200; left: 0; right: 0; z-index: 99; }\n",],undefined,{path:"./pages/orderList/orderList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/orderList/orderList.wxml') } }));

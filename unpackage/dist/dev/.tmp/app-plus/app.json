@@ -1,0 +1,73 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home",
+    "pages/map/map",
+    "pages/vehicleManagement/vehicleAdd",
+    "pages/payList/payList",
+    "pages/orderList/orderList",
+    "pages/qianfei/qianfei",
+    "pages/overpay/overpay",
+    "pages/lotparking/lotparking",
+    "pages/tousu/tousu",
+    "pages/tousu/addtousu",
+    "pages/login/login",
+    "pages/tingche/tingche",
+    "pages/vehicleManagement/vehicleManagement",
+    "pages/details/details",
+    "pages/tingche/tingcheCashier",
+    "pages/overpay/inputOverpay",
+    "pages/convin/convin",
+    "pages/qianfei/qianfeiCashier",
+    "pages/bindtel/bindtel",
+    "pages/overpay/overpayCashier",
+    "pages/map/search",
+    "pages/lotparking/lotparkingCashier",
+    "pages/netcomCashier/netcomCashier"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "奉贤停车",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#6E6E6E",
+    "selectedColor": "#3796F7",
+    "borderStyle": "black",
+    "backgroundColor": "#F0F0F0",
+    "height": "55px",
+    "fontSize": "13px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "/static/tabbar/home.png",
+        "selectedIconPath": "/static/tabbar/home1.png"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "text": "附近",
+        "iconPath": "/static/tabbar/naber.png",
+        "selectedIconPath": "/static/tabbar/naber1.png"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "text": "个人",
+        "iconPath": "/static/tabbar/self.png",
+        "selectedIconPath": "/static/tabbar/self1.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "奉贤停车",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

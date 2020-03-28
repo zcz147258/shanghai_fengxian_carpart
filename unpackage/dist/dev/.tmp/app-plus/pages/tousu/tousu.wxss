@@ -1,0 +1,20 @@
+
+.null-img.data-v-7a68b85e {
+	padding-top: 50rpx;
+	width: 100%;
+}
+.null-img>image.data-v-7a68b85e {
+	width: 350rpx;
+}
+.input-feedback.data-v-7a68b85e {
+	font-size: 36rpx;
+	width: 100%;
+	color: #FFFFFF;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: fixed;
+	background-color: #007AFF;
+	padding: 30rpx 0;
+}
+
